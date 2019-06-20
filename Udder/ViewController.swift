@@ -29,5 +29,9 @@ class ViewController: UIViewController {
         super.viewWillAppear(true)
     }
 
+    func createNewFunc() {
+        //create new Function
+    }
+    
 }
 
